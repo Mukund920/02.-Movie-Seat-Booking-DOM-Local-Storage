@@ -1,7 +1,7 @@
 # Movie-Seat-Booking
 A simple movie seat booking system that allows users to select a movie, choose seats, and see the total cost. The selected seats and movie are saved in local storage to persist between page reloads.
 
-Overview
+## Overview
 
 This project demonstrates a basic movie seat booking system using HTML, CSS, and JavaScript. Users can:
 - Select a movie from a dropdown list.
@@ -9,7 +9,7 @@ This project demonstrates a basic movie seat booking system using HTML, CSS, and
 - See the total cost based on the selected seats and movie price.
 - The system saves the selected seats and movie in local storage, ensuring the selection persists even after the page is reloaded.
 
-Usage
+## Usage
 
 1. Clone the repository:
    git clone https://github.com/your-username/movie-seat-booking.git
@@ -21,7 +21,7 @@ Usage
 
 5. The total price and the number of selected seats will be updated automatically.
 
-How It Works
+## How It Works
 
 HTML :
 The HTML file contains the structure of the movie seat booking system, including :-
