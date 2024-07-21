@@ -36,13 +36,13 @@ The JavaScript file provides the functionality of the movie seat booking system 
 
 ## Usage
 
-1. Clone the repository:
-   git clone https://github.com/your-username/movie-seat-booking.git
+1. Clone the repository.
+   
 2. Open the index.html file in your web browser.
 
 3. Select a movie from the dropdown menu.
 
-4. Click on the seats to select or deselect them.
+5. Click on the seats to select or deselect them.
 
 5. The total price and the number of selected seats will be updated automatically.
 
